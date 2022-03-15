@@ -10,9 +10,9 @@ Documentation Page References:
 
 Sample IPAs can be downloaded here:
 
-- [Experibank.ipa](https://experibankxcuitestapp.s3.us-east-2.amazonaws.com/Experibank.ipa)
+- [Experibank.ipa](https://experibankxcuitestapp2022.s3.us-east-2.amazonaws.com/EriBank.ipa)
 
-- [ExperibankTests.ipa](https://experibankxcuitestapp.s3.us-east-2.amazonaws.com/ExperibankTests.ipa)
+- [CucumberishSwift-Runner.zip](https://experibankxcuitestapp2022.s3.us-east-2.amazonaws.com/CucumberishSwift-Runner.zip)
 
 ## Triggering XCUITest Unit Tests
 
